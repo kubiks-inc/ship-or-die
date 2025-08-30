@@ -27,11 +27,11 @@ This project enables you to:
 ## Technologies Used
 
 - **[E2B](https://e2b.dev/)** - AI workloads in cloud containers with secure sandboxed environments
-- **Drizzle** - Type-safe ORM for database operations
-- **OpenRouter** - AI gateway for accessing multiple language models
+- **[Drizzle](https://orm.drizzle.team/docs/)** - Type-safe ORM for database operations
+- **[OpenRouter](https://openrouter.ai/)** - AI gateway for accessing multiple language models
 - **PostgreSQL** - Primary database for storing project data
-- **Upstash** - Redis-based queues and cron job management
-- **Next.js** - Full-stack React framework
+- **[Upstash](https://upstash.com/)** - Redis-based queues and cron job management
+- **[Next.js](https://nextjs.org/)** - Full-stack React framework
 
 ## Getting Started
 
