@@ -1,9 +1,10 @@
 # Ship or Die
 
 <p align="center">
-  <img alt="Ship or Die - AI-powered background agents for automated coding tasks" src="images/demo.mp4">
-  <h1 align="center">Ship or Die</h1>
+  <img alt="Ship or Die - AI-powered background agents for automated coding tasks" src="images/demo.gif" width="600">
 </p>
+
+<h1 align="center">Ship or Die</h1>
 
 <p align="center">
     A free and open source experimental project that allows you to run Codex/Claude in cloud containers as background agents. These agents implement tasks and automatically submit pull requests as results.
