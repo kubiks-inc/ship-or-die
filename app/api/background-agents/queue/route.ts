@@ -52,7 +52,7 @@ async function handler(req: Request) {
     try {
       const e2bProvider = createE2BProvider({
         apiKey: process.env.E2B_API_KEY!,
-        templateId: '3ccbgi9t5jhzrk63a8d9',
+        templateId: '3ccbgi9t5jhzrk63a8d9', // TODO: replace with your template id
       });
 
       const vibeKit = new VibeKit()
