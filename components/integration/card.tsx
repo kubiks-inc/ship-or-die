@@ -12,8 +12,7 @@ import {
   DialogHeader,
   DialogTitle,
 } from '@/components/ui/dialog';
-import { Trash2 } from 'lucide-react';
-import { getIntegrationIcon } from '@/components/integration/icon';
+import { Github, Trash2 } from 'lucide-react';
 import { Integration } from '@/db/schema';
 import { useDeleteIntegration } from '@/hooks/use-integrations';
 
@@ -45,7 +44,7 @@ export function IntegrationCardWrapper({
       >
         <div className="flex items-start sm:items-center gap-4 w-full">
           <div className="flex-shrink-0">
-            {getIntegrationIcon(integration.type, 'h-8 w-8')}
+            <Github className="h-8 w-8" />
           </div>
           <div className="flex-1 min-w-0">
             <h3 className="text-lg font-medium text-foreground truncate">
