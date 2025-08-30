@@ -58,6 +58,6 @@ Cursor CLI support can easily be added to enhance the development experience wit
 To learn more about the technologies used:
 
 - [E2B Documentation](https://e2b.dev/) - AI sandboxes for enterprise-grade agents
-- [Drizzle Documentation](https://orm.drizzle.team/) - TypeScript ORM
+- [Drizzle Documentation](https://orm.drizzle.team/docs/) - TypeScript ORM
 - [OpenRouter Documentation](https://openrouter.ai/) - AI gateway
-- [Next.js Documentation](https://nextjs.org/docs) - React framework
+- [Next.js Documentation](https://nextjs.org/) - React framework
