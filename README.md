@@ -1,8 +1,22 @@
 # Ship or Die
 
-A free and open source experimental project that allows you to run Codex/Claude in cloud containers as background agents. These agents implement tasks and automatically submit pull requests as results.
+<p align="center">
+  <img alt="Ship or Die - AI-powered background agents for automated coding tasks" src="images/demo.mp4">
+  <h1 align="center">Ship or Die</h1>
+</p>
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/kubiks-inc/ship-or-die)
+<p align="center">
+    A free and open source experimental project that allows you to run Codex/Claude in cloud containers as background agents. These agents implement tasks and automatically submit pull requests as results.
+</p>
+
+<p align="center">
+  <a href="#what-it-does"><strong>What it does</strong></a> ·
+  <a href="#technologies-used"><strong>Technologies</strong></a> ·
+  <a href="#getting-started"><strong>Getting Started</strong></a> ·
+  <a href="#deployment"><strong>Deploy</strong></a> ·
+  <a href="#learn-more"><strong>Learn More</strong></a>
+</p>
+<br/>
 
 ## What it does
 
@@ -32,7 +46,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Deployment
 
-The easiest way to deploy is using the Vercel button above, or manually deploy to [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme).
+The easiest way to deploy is using the Vercel button below, or manually deploy to [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme).
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/kubiks-inc/ship-or-die)
 
 ## Cursor CLI Support
 
