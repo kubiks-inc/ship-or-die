@@ -5,14 +5,15 @@ import {
   Map,
   Settings2,
 } from 'lucide-react';
-
 import { NavMain } from '@/components/nav-main';
 import {
   Sidebar,
   SidebarContent,
+  SidebarFooter,
   SidebarHeader,
   SidebarRail,
 } from '@/components/ui/sidebar';
+import { AnimatedThemeToggler } from '@/components/magicui/animated-theme-toggler';
 
 
 const data = {
@@ -51,6 +52,9 @@ export function AppSidebar({ disabled }: AppSidebarProps) {
       <SidebarContent>
         <NavMain items={data.navMain} disabled={disabled} />
       </SidebarContent>
+      <SidebarFooter>
+        <AnimatedThemeToggler />
+      </SidebarFooter>
       <SidebarRail />
     </Sidebar>
   );
