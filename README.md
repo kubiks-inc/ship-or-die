@@ -32,6 +32,7 @@ This project enables you to:
 - **PostgreSQL** - Primary database for storing project data
 - **[Upstash](https://upstash.com/)** - Redis-based queues and cron job management
 - **[Next.js](https://nextjs.org/)** - Full-stack React framework
+- **[VibeKit](https://www.vibekit.sh/)** - Safety layer for coding agents with sandboxing
 
 ## Getting Started
 
